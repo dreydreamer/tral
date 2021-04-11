@@ -1,2 +1,3 @@
 # trial
-this is a sample repo.
+this is a sample repository
+By Andrie
