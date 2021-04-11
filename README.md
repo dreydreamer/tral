@@ -1,2 +1,3 @@
-# tral
-this is a sample repo.
+# trial
+this is a sample repository
+By Andrie
